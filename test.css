@@ -23,7 +23,7 @@
 	/* gap: 10px; */
 }
 .exploreButton {
-	background-color: rgb(23, 175, 125);
+	background-color: #01b7c4;
 	color: white;
 	padding: 12px 22px;
 	border: transparent;
@@ -37,4 +37,11 @@
 }
 .bigBox {
 	width: 100%;
+}
+.imageBox {
+	background-color: #fe7701;
+	width: 45%;
+	height: 300px;
+	margin-top: 40%;
+	border-radius: 20px;
 }
