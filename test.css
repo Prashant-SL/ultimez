@@ -1,0 +1,40 @@
+.grid {
+	display: grid;
+}
+.redBorder {
+	border: 1px solid red;
+}
+.blackBorder {
+	border: 1px solid black;
+}
+.flex {
+	display: flex;
+	flex-direction: row;
+}
+.navbar {
+	width: 70%;
+	margin: auto;
+	align-items: center;
+	justify-content: space-between;
+}
+.rightHead {
+	width: 37%;
+	justify-content: space-between;
+	/* gap: 10px; */
+}
+.exploreButton {
+	background-color: rgb(23, 175, 125);
+	color: white;
+	padding: 12px 22px;
+	border: transparent;
+}
+.leftBox {
+	width: 40%;
+	margin-left: 10%;
+}
+.rightBox {
+	width: 50%;
+}
+.bigBox {
+	width: 100%;
+}
